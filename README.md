@@ -15,7 +15,6 @@ debora.noemidasilveirade.jesus@escola.pr.gov.br
 ![](https://media.tenor.com/VBq53ppKDpAAAAAj/olivia-rodrigo.gif)
 
 
-<h2 align="left">Oii 👋</h2>
 
 ###
 
