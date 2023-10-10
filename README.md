@@ -11,3 +11,5 @@ Meu nome é Débora Noemi
 ### Você pode entrar em contato comigo 📫
 
 debora.noemidasilveirade.jesus@escola.pr.gov.br
+
+![](https://media.tenor.com/3pEELoKLH5QAAAAM/snoopy-snoopy-dance.gif)
