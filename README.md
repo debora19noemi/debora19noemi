@@ -12,4 +12,4 @@ Meu nome é Débora Noemi
 
 debora.noemidasilveirade.jesus@escola.pr.gov.br
 
-![](https://media.tenor.com/3pEELoKLH5QAAAAM/snoopy-snoopy-dance.gif)
+![](https://media.tenor.com/VBq53ppKDpAAAAAj/olivia-rodrigo.gif)
