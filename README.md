@@ -22,6 +22,11 @@ debora.noemidasilveirade.jesus@escola.pr.gov.br
 
 ###
 
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deb.orah.silv/)
+  
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -41,7 +46,4 @@ debora.noemidasilveirade.jesus@escola.pr.gov.br
 ###
 
 
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deb.orah.silv/)
-  
 
-###
